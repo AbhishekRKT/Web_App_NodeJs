@@ -1,0 +1,16 @@
+[{
+    "id":"r1",
+    "name":"Test",
+    "address":"Teststreet, 05 Test",
+    "cuisine":"Indian",
+    "website":"https://test.com",
+    "description":"it's awesome!"
+},
+    {
+        "id":"r2",
+        "name":"Jhakas Restaurant",
+        "address":"Jhakas street near new Nalasupara",
+        "cuisine":"Local food",
+        "website":"https://jhakas.com",
+        "description":"Lalantop food is sold here."
+        }]
